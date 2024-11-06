@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kuliner/detail_page.dart';
-import 'package:kuliner/makanan.dart';
-import 'package:kuliner/styles.dart';
+import 'package:perangkat_bergerak/detail_page.dart';
+import 'package:perangkat_bergerak/makanan.dart';
+import 'package:perangkat_bergerak/styles.dart';
 
 class ListItem extends StatelessWidget {
   const ListItem({super.key, required this.menu});

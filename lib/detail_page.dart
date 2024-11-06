@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kuliner/makanan.dart';
-import 'package:kuliner/styles.dart';
+import 'package:perangkat_bergerak/makanan.dart';
+import 'package:perangkat_bergerak/styles.dart';
 
 class DetailPage extends StatelessWidget {
   final Makanan makanan;

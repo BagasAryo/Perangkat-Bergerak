@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kuliner/list_item.dart';
-import 'package:kuliner/makanan.dart';
-import 'package:kuliner/styles.dart';
+import 'package:perangkat_bergerak/list_item.dart';
+import 'package:perangkat_bergerak/makanan.dart';
+import 'package:perangkat_bergerak/styles.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({

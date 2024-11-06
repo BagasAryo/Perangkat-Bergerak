@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kuliner/home_page.dart';
-import 'package:kuliner/styles.dart';
+import 'package:perangkat_bergerak/home_page.dart';
+import 'package:perangkat_bergerak/styles.dart';
 
 void main(){
   runApp(const MainApp());
